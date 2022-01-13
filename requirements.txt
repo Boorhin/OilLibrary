@@ -3,8 +3,7 @@
 
 numpy
 scipy
-SQLAlchemy
-zope.sqlalchemy
+pynucos>=2.12
 awesome-slugify
 pytest
 gitpython
